@@ -1,6 +1,6 @@
 name: hackernews-mcp
 description: Get current top stories from Hacker News (real-time data). No API key required.
-author: https://github.com/hyz/hackernews-mcp
+author: https://github.com/hyz848/hackernews-mcp
 license: MIT
 tags:
   - hackernews

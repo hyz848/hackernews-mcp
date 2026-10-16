@@ -2,6 +2,8 @@
 
 AI Friendly MCP Server for Hacker News. Get current top stories (real-time data) — no API key required.
 
+> Repo: https://github.com/hyz848/hackernews-mcp
+
 ## Tools
 
 | Tool | Description | Arguments |
