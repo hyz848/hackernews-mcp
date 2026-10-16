@@ -1,0 +1,25 @@
+name: hackernews-mcp
+description: Get current top stories from Hacker News (real-time data). No API key required.
+author: https://github.com/hyz/hackernews-mcp
+license: MIT
+tags:
+  - hackernews
+  - mcp
+  - news
+
+params:
+  type: object
+  properties: {}
+
+local: |
+  python server.py
+
+config: |
+  {
+    "mcpServers": {
+      "hackernews": {
+        "command": "python",
+        "args": ["server.py"]
+      }
+    }
+  }
