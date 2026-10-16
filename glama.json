@@ -1,0 +1,6 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": ["hyz848"],
+  "name": "hackernews-mcp",
+  "description": "MCP server that returns current top stories from Hacker News (real-time data, no API key required)."
+}
